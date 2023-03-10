@@ -1,0 +1,211 @@
+* {
+  box-sizing: border-box;
+}
+
+html{
+  height: 100%;
+  /* background-image: url(./assets/1920214489dancing-baby2.gif); */
+  background-image: url(./assets/pngtree-background-for-school-with-chalk-drawings-on-black-chalkboard-image_357886.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ background-color: #955a5a;
+}
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+
+  /* background-image: url(./assets/19-vaporwave-gifs-gif-abyss.gif); */
+  background-repeat: no-repeat;
+
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 22px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+h4 {
+  margin-top: 0;
+  font-size: 16px;
+}
+
+h5 {
+  margin-top: 0;
+  font-size: 14px;
+}
+
+h6 {
+  margin-top: 0;
+  font-size: 12px;
+}
+
+code {
+  font-size: 1.2em;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+
+.board-row:after {
+  clear: both;
+  content: '';
+  display: table;
+}
+
+.status {
+  margin-bottom: 10px;
+}
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game-info {
+  margin-left: 20px;
+}
+.pic{
+  
+
+
+  background-color: black;
+
+}
+
+.bgimg{
+ 
+  min-height: 100vh;
+  min-width: 100%v;
+  /* background-image: url(./assets/19-vaporwave-gifs-gif-abyss.gif); */
+ background-repeat: no-repeat;
+padding: 7.8em;
+background-size: 100rem;
+
+}
+
+.moves{
+  background-color: #955a5a;
+ text-align: center;
+ padding: 2rem;
+ 
+ 
+ }
+.game1{
+
+}
+.button{
+
+}
+.game {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-info {
+  margin: 0;
+  display: flex;
+  text-align: center;
+  background-color: rgba(139, 67, 67, 0.816);
+  width: 200px;
+  margin-top: 20px;
+  border-radius: 12px;
+ margin-left: 2rem;
+}
+
+.con{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.swal-icon{
+  width: 150px;
+  height: 150px;
+}
+
+.swal-overlay {
+  background-color: rgba(163, 153, 153, 0.75);
+}
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+.swal-modal {
+  background-color: rgb(255, 74, 74);
+}
+
+.swal-button {
+  border: 1px solid black;
+}
+.status {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 35px;
+  background-color: rgba(139, 67, 67, 0.75);
+  border-radius: 12px;
+}
+.square {
+  border-radius: 0px;
+  background-color: rgba(139, 67, 67, 0.816);
+  border: 1px solid black;
+  float: left;
+ margin-right: -1px;
+  font-weight: bold;
+ 
+  height: 80px;
+  padding: 0;
+  margin-top: -1px;
+  line-height: 70px;
+  text-align: center;
+  width: 80px;
+    font-size: 40px;
+    
+}
+.s{
+  margin-left: 30px;
+}
+button {
+  width: 100%;
+  background-color: rgba(249, 245, 245, 0);
+  border: none;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 4px;
+  height: 2rem;
+  color: aliceblue;
+ 
+}
+.header{
+  color: aliceblue;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
