@@ -1,4 +1,6 @@
-
+//aisha mashrah
+//mar 10 3:47 2023
+//build tic tac toe with react
 
 import React from 'react';
 import Game from './component/gamecomponent';
